@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on new growing team.
   
 
-I am a passionate Senior Software Engineer with 10+ years of experience.
+I am a passionate Senior Software Engineer with 10+ years and Senior Machine Learning Engineer with 7+ years of experience.
 I have a strong background in frontend and backend technologies, including proficiency in languages such as JavaScript, TypeScript, C#/C++, Python and also HTML, CSS, PHP and then frameworks like React.js, Angular, and Vue.js for frontend and Node.js, Django, ASP.NET, fastapi, Laravel for the backend. 
 I have been built many web applications and saas products.
 I am experienced in developing RESTful APIs, working with databases, and creating user-friendly UI/UX experiences.
