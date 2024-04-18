@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GoldGrandMaster
+- 👋 Hi, I’m a Senior Software engineer with strong background of frontend and backend & Machine Learning Engineer.
 - 👀 I’m interested in software engineering and AI domains such as Computer Vision, Natural Language Processing and Data Science.
 - 💞️ I’m looking to collaborate on new growing team.
   
